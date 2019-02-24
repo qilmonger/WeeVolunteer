@@ -1,2 +1,0 @@
-# eugthehuman.github.io
-WeeVolunteer
