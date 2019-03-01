@@ -84,6 +84,62 @@ a {
   border-color: #1e4b61;
 }
 
+.culture-badge{
+    position: absolute;
+    background-color: tomato;
+    height:1.5rem;
+    top:0.5rem;
+    left:0.5rem;
+    width:3.8rem;
+    text-align: center;
+    line-height: 1.5rem;;
+    font-size: 0.8rem;
+    border-radius: 5%;
+    color:white;
+}
+
+.environment-badge{
+    position: absolute;
+    background-color: forestgreen;
+    height:1.5rem;
+    top:0.5rem;
+    left:0.5rem;
+    width:6.1rem;
+    text-align: center;
+    line-height: 1.5rem;;
+    font-size: 0.8rem;
+    border-radius: 5%;
+    color:white;
+}
+
+.issues-badge{
+    position: absolute;
+    background-color: dodgerblue;
+    height:1.5rem;
+    top:0.5rem;
+    left:0.5rem;
+    width:3.4rem;
+    text-align: center;
+    line-height: 1.5rem;;
+    font-size: 0.8rem;
+    border-radius: 5%;
+    color:white;
+}
+
+.feature-badge{
+    position: absolute;
+    background-color: rebeccapurple;
+    height:1.5rem;
+    top:0.5rem;
+    left:0.5rem;
+    width:3.8rem;
+    text-align: center;
+    line-height: 1.5rem;;
+    font-size: 0.8rem;
+    border-radius: 5%;
+    color:white;
+}
+
 article p {
 	font-size: .9rem;
 }
@@ -98,7 +154,7 @@ article p {
   width: 40px;
   text-align: center;
   text-decoration: none;
-  border-radius: 50%;
+  border-radius: 30%;
 }
 
 .fab:hover {
