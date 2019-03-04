@@ -140,6 +140,34 @@ a {
     color:white;
 }
 
+.editorial-badge{
+    position: absolute;
+    background-color:#E3B953;
+    height:1.5rem;
+    top:0.5rem;
+    left:0.5rem;
+    width:4.2rem;
+    text-align: center;
+    line-height: 1.5rem;;
+    font-size: 0.8rem;
+    border-radius: 5%;
+    color:white;
+}
+
+.sponsored-badge{
+    position: absolute;
+    background-color:seagreen;
+    height:1.5rem;
+    top:0.5rem;
+    left:0.5rem;
+    width:5.1rem;
+    text-align: center;
+    line-height: 1.5rem;;
+    font-size: 0.8rem;
+    border-radius: 5%;
+    color:white;
+}
+
 .videoWrapper {
 	position: relative;
 	padding-bottom: 56.25%; /* 16:9 */
@@ -155,6 +183,36 @@ a {
 	height: 100%;
 }
 
+.carousel-caption-article {
+    position: relative;
+    left: auto;
+    right: auto;
+}
+
+#carouselPhotoPilot {
+	background-color: #DDD;
+	height: 550px;
+	overflow: hidden;
+	border-bottom: #DDDDDD solid thin;
+	margin-bottom: 15px;
+}
+
+.carousel-inner > .carousel-item > picture { 
+	text-align: center;
+}
+
+.carousel-caption-article p {
+	padding: 15px 15px 40px 15px;
+	margin-bottom: 0px;
+	background-color: white;
+}
+
+.pilot-photo{
+	width: auto; 
+	height: 480px;
+	background-color: #DDD;
+}
+	
 article p {
 	font-size: .9rem;
 }
