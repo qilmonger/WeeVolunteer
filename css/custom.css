@@ -183,34 +183,16 @@ a {
 	height: 100%;
 }
 
-.carousel-caption-article {
-    position: relative;
-    left: auto;
-    right: auto;
-}
-
-#carouselPhotoSlideshow {
-	background-color: #DDD;
-	height: 550px;
-	overflow: hidden;
-	border-bottom: #DDDDDD solid thin;
-	margin-bottom: 15px;
-}
-
 .carousel-inner > .carousel-item > picture { 
 	text-align: center;
 }
 
 .carousel-caption-article p {
-	padding: 15px 15px 40px 15px;
-	margin-bottom: 0px;
-	background-color: white;
+	color: #6c757d;
 }
 
-.slideshow-photo{
-	width: auto; 
-	height: 480px;
-	background-color: #DDD;
+.carousel-caption-article-long p {
+	color: #6c757d;
 }
 	
 article p {

@@ -53,7 +53,7 @@
 <picture class="d-block w-100">
   <source media="(min-width: 992px)" srcset="../images/stories/war-souvenirs/uxo-header.png">
   <source media="(min-width: 0px)" srcset="../images/stories/war-souvenirs/uxo-header-960w.png">
-  <img src="../images/stories/war-souvenirs/uxo-header.png" alt="Laos’ war souvenirs: Jewellery, cutlery from unexploded bombs" style="width: 100%; height: auto;"> </picture>
+  <img src="../images/stories/2018/war-souvenirs/uxo-header.png" alt="Laos’ war souvenirs: Jewellery, cutlery from unexploded bombs" style="width: 100%; height: auto;"> </picture>
 <!-- TemplateEndEditable --></div>
   <div class="container">
 	  <div class="row">
@@ -73,7 +73,7 @@
 				    These keychains, jewellery and cutlery are more than meets the eye — they are made of metal scraps from unexploded bombs dropped during the Vietnam War half a century ago, stall owners said. <br>
 				    <br>
 				    Locals selling these shiny souvenirs see this as a means to escape from the poverty cycle caused by the war. Signs written in English are used by them to urge tourists to purchase these souvenirs. </p>
-                  <figure class="figure"> <img src="../images/stories/war-souvenirs/uxo-1.jpg" class="figure-img img-fluid rounded" alt="Stalls selling metal war souvenirs from unverified sources are a common sight in Luang Prabang’s night market.">
+                  <figure class="figure"> <img src="../images/stories/2018/war-souvenirs/uxo-1.jpg" class="figure-img img-fluid rounded" alt="Stalls selling metal war souvenirs from unverified sources are a common sight in Luang Prabang’s night market.">
                     <figcaption class="figure-caption">Stalls selling metal war souvenirs from unverified sources are a common sight in Luang Prabang’s night market.</figcaption>
                   </figure>
                   <p> Like many tourists drawn to these shiny metals, tourists Paige Sinclair and Kiana Simeon, both 15, bought several keychains to bring back home for family and friends in New Zealand. <br>
@@ -99,7 +99,7 @@
                     This is due to stringent rules enforced by the government, as well as better educational levels of villagers in the most affected areas, said Deputy Provincial Coordinator of UXO Laos in Luang Prabang, Mr Santi Khotisen. </p>
                   <br>
                   <h5>UXO Visitors Centre: Authentic war souvenirs</h5>
-                  <figure class="figure"> <img src="../images/stories/war-souvenirs/uxo-2.jpg" class="figure-img img-fluid rounded" alt="Deputy Provincial Coordinator of the UXO Luang Prabang Province Santi Khotisen said strong government control and educational programmes led to a decline in the illegal sourcing of UXO metal.">
+                  <figure class="figure"> <img src="../images/stories/2018/war-souvenirs/uxo-2.jpg" class="figure-img img-fluid rounded" alt="Deputy Provincial Coordinator of the UXO Luang Prabang Province Santi Khotisen said strong government control and educational programmes led to a decline in the illegal sourcing of UXO metal.">
                     <figcaption class="figure-caption">Deputy Provincial Coordinator of the UXO Luang Prabang Province Santi Khotisen said strong government control and educational programmes led to a decline in the illegal sourcing of UXO metal.</figcaption>
                   </figure>
                   <p> Although Luang Prabang was not severely affected by the bombing, it opened the UXO Visitors Centre some 13 years later to leverage on the city’s tourism boom. The launch of the centre also helped to educate tourists and local students about the history of the UXOs. <br>
@@ -118,7 +118,31 @@
 		  </div>
 	    <div class="col-12 col-lg-4 pt-3">
 		  <h3>Other Stories</h3>
-			  <!-- TemplateBeginEditable name="otherstories" -->otherstories<!-- TemplateEndEditable -->
+			<div class="row">
+			  <!-- TemplateBeginEditable name="otherstories" -->			
+				<div class="col-lg-12 col-md-6 col-12 pb-3 px-0 px-md-3">
+					<div class="card">
+						<span class="culture-badge">Culture</span>
+						<img class="card-img-top" src="../../images/stories/2018/rites-of-passage/novice-header-400w.png" alt="Rites of passage">
+						<div class="card-body">
+						  <h5 class="card-title">Rites of passage</h5>
+						  <p class="card-text">Almost all Laotian men joins the monastery at some point in their lives — but not many continue to become monks for life. </p>
+						  <a href="../../stories/2018/rites-of-passage.html" class="btn btn-primary">Read More</a>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-12 col-md-6 col-12 pb-3 px-0 px-md-3">
+					<div class="card">
+						<img class="card-img-top" src="../../images/stories/2018/water-filtration/water-filtration-header-400w.png" alt="A fresh start">
+						<div class="card-body">
+						<span class="issues-badge">Issues</span>
+						  <h5 class="card-title">A fresh start</h5>
+						  <p class="card-text">In Laos, only two-thirds of the 8,857 primary schools have both water supply and latrine facilities — most of which are located in cities.<br></p>
+						  <a href="../../stories/2018/water-filtration.html" class="btn btn-primary">Watch</a>
+						</div>
+					</div>
+				</div><!-- TemplateEndEditable -->
+			</div>
 		  </div>
     </div>
   </div>
