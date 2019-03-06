@@ -50,6 +50,17 @@ h1, h2, h3, h4, h5, h6,
   font-weight: 400;
 }
 
+.nav-tabs {
+  overflow-x: auto;
+  overflow-y: hidden;
+  display: -webkit-box;
+  display: -moz-box;
+}
+
+.nav-tabs>li {
+  float: none;
+}
+
 h1, .h1 {
   font-size: 2.25rem;
   font-weight: 600;
