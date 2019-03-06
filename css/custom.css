@@ -329,7 +329,7 @@ article p {
 		background-color: #DDD;
 		height: 458.75px;
 		overflow: hidden;
-		border-bottom: #DDDDDD solid thin;
+		border-bottom: #ccc solid thin;
 		margin-bottom: 15px;
 	}
 	.carousel-caption-article p {
@@ -341,7 +341,7 @@ article p {
 		background-color: #DDD;
 		height: 498.75px;
 		overflow: hidden;
-		border-bottom: #DDDDDD solid thin;
+		border-bottom: #ccc solid thin;
 		margin-bottom: 15px;
 	}
 	.carousel-caption-article-long p {
@@ -361,7 +361,7 @@ article p {
 		background-color: #DDD;
 		height: 508.75px;
 		overflow: hidden;
-		border-bottom: #DDDDDD solid thin;
+		border-bottom: #ccc solid thin;
 		margin-bottom: 15px;
 	}
 	.carousel-caption-article p {
@@ -373,7 +373,7 @@ article p {
 		background-color: #DDD;
 		height: 553.75px;
 		overflow: hidden;
-		border-bottom: #DDDDDD solid thin;
+		border-bottom: #ccc solid thin;
 		margin-bottom: 15px;
 	}
 	.carousel-caption-article-long p {
