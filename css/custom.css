@@ -189,7 +189,7 @@ a {
     right: auto;
 }
 
-#carouselPhotoPilot {
+#carouselPhotoSlideshow {
 	background-color: #DDD;
 	height: 550px;
 	overflow: hidden;
@@ -207,7 +207,7 @@ a {
 	background-color: white;
 }
 
-.pilot-photo{
+.slideshow-photo{
 	width: auto; 
 	height: 480px;
 	background-color: #DDD;
@@ -252,16 +252,138 @@ article p {
 }
 
 @media screen and (min-width: 0px) {
-  #weetrip-team {
-	border-top: 1px solid #CCC;
-	padding-top: 1rem;
-  }
+	#weetrip-team {
+		border-top: 1px solid #CCC;
+		padding-top: 1rem;
+	}
+	#carouselPhotoSlideshow {
+		background-color: #DDD;
+		height: 330px;
+		overflow: hidden;
+		border-bottom: #DDDDDD solid thin;
+		margin-bottom: 15px;
+	}
+	.carousel-caption-article p {
+		padding: 15px 15px 80px 15px;
+		margin-bottom: 0px;
+		background-color: white;
+	}
+	#carouselPhotoSlideshowLong {
+		background-color: #DDD;
+		height: 435px;
+		overflow: hidden;
+		border-bottom: #DDDDDD solid thin;
+		margin-bottom: 15px;
+	}
+	.carousel-caption-article-long p {
+		padding: 15px 15px 185px 15px;
+		margin-bottom: 0px;
+		background-color: white;
+	}
+	.slideshow-photo{
+		width: auto; 
+		height: 215px;
+		background-color: #DDD;
+	}
+}
+
+@media screen and (min-width: 768px) {
+	#carouselPhotoSlideshow {
+		background-color: #DDD;
+		height: 356.25px;
+		overflow: hidden;
+		border-bottom: #DDDDDD solid thin;
+		margin-bottom: 15px;
+	}
+	.carousel-caption-article p {
+		padding: 15px 15px 40px 15px;
+		margin-bottom: 0px;
+		background-color: white;
+	}
+	#carouselPhotoSlideshowLong {
+		background-color: #DDD;
+		height: 416.25px;
+		overflow: hidden;
+		border-bottom: #DDDDDD solid thin;
+		margin-bottom: 15px;
+	}
+	.carousel-caption-article-long p {
+		padding: 15px 15px 100px 15px;
+		margin-bottom: 0px;
+		background-color: white;
+	}
+	.slideshow-photo{
+		width: auto; 
+		height: 281.25px;
+		background-color: #DDD;
+	}
 }
 
 @media screen and (min-width: 992px) {
-  #weetrip-team {
-	border-left: 1px solid #CCC;
-	border-top: 0px;
-	padding-top: 0rem;
-  }
+	#weetrip-team {
+		border-left: 1px solid #CCC;
+		border-top: 0px;
+		padding-top: 0rem;
+	}
+	#carouselPhotoSlideshow {
+		background-color: #DDD;
+		height: 458.75px;
+		overflow: hidden;
+		border-bottom: #DDDDDD solid thin;
+		margin-bottom: 15px;
+	}
+	.carousel-caption-article p {
+		padding: 15px 15px 60px 15px;
+		margin-bottom: 0px;
+		background-color: white;
+	}
+	#carouselPhotoSlideshowLong {
+		background-color: #DDD;
+		height: 498.75px;
+		overflow: hidden;
+		border-bottom: #DDDDDD solid thin;
+		margin-bottom: 15px;
+	}
+	.carousel-caption-article-long p {
+		padding: 15px 15px 100px 15px;
+		margin-bottom: 0px;
+		background-color: white;
+	}
+	.slideshow-photo{
+		width: auto; 
+		height: 363.75px;
+		background-color: #DDD;
+	}
+}
+
+@media screen and (min-width: 1200px) {
+	#carouselPhotoSlideshow {
+		background-color: #DDD;
+		height: 508.75px;
+		overflow: hidden;
+		border-bottom: #DDDDDD solid thin;
+		margin-bottom: 15px;
+	}
+	.carousel-caption-article p {
+		padding: 15px 15px 40px 15px;
+		margin-bottom: 0px;
+		background-color: white;
+	}
+	#carouselPhotoSlideshowLong {
+		background-color: #DDD;
+		height: 553.75px;
+		overflow: hidden;
+		border-bottom: #DDDDDD solid thin;
+		margin-bottom: 15px;
+	}
+	.carousel-caption-article-long p {
+		padding: 15px 15px 85px 15px;
+		margin-bottom: 0px;
+		background-color: white;
+	}
+	.slideshow-photo{
+		width: auto; 
+		height: 438.75px;
+		background-color: #DDD;
+	}
 }
