@@ -45,9 +45,8 @@ body {
   background-color: #1E4B61;
 }
 
-h1, h2, h3, h4, h5, h6,
-.h1, .h2, .h3, .h4, .h5, .h6 {
-  font-weight: 400;
+.navbar-toggler {
+  border: 0px solid transparent;
 }
 
 .nav-tabs {
@@ -94,6 +93,13 @@ h1, h2, h3, h4, h5, h6,
   background-color: #fff;
   border-bottom: 3px solid #f2cf56;
 }
+
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+  font-weight: 400;
+}
+
+
 h1, .h1 {
   font-size: 2.25rem;
   font-weight: 600;
