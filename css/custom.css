@@ -309,13 +309,10 @@ article p {
 }
 
 #wkwsci-logo {
-	margin: -5.5% 0% -3% -6.5%;
+	margin: -6% 0% -3% -6.5%;
 }
 
 @media screen and (min-width: 0px) {
-	#wkwsci-logo {
-		width= 50%;	
-	}
 	#weetrip-team {
 		border-top: 1px solid #CCC;
 		padding-top: 1rem;
