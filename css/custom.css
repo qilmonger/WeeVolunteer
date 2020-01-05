@@ -9,6 +9,16 @@ body {
   font-size: 0.8rem;
 }
 
+div.nav {
+  white-space: nowrap;
+  overflow-x: auto
+}
+
+div.nav a {
+  display: inline-block;
+  float: none;
+}
+
 .col-0 {
   -webkit-box-flex: 0;
   -ms-flex: 0 0 4.166666%;
